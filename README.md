@@ -12,7 +12,7 @@
 
 ## Getting Started
 
-![](images/dev_pkgs.png){fig-align="center"}
+![](images/dev_pkgs.png)
 
 ## Creating a new R package
 
@@ -21,7 +21,7 @@
 
 ## R package components
 
-![](images/pkg_files.png){fig-align="center"}
+![](images/pkg_files.png)
 
 ## Writing a function for your package
 
@@ -39,7 +39,7 @@
 
 -   Edit the fields that were pre-populated by `{usethis}`
 
-![](images/description.png){fig-align="center"}
+![](images/description.png)
 
 -   You can also use `usethis::use_package()` to add packages to `DESCRIPTION` that your new package depends on
 
